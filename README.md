@@ -4,6 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tunahan Doğan</h1>
+<p align="center">full-stack software developer of 1948 company</p>
 
 📫 How to reach me **jagshem@outlook.com**
 
