@@ -1,6 +1,6 @@
-<!--
+
 <div> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
--->
+
 
 
 <h1 align="center">Hi 👋, I'm Tunahan Doğan</h1>
