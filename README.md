@@ -38,7 +38,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
-
+![Snake animation](https://raw.githubusercontent.com/jagshem/jagshem/master/github-contribution-grid-snake.svg)
 
 
 
