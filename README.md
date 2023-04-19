@@ -38,8 +38,6 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
-![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif)
-
 
 
 
