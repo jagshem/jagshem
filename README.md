@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/jagshem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dkarakay402" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/jagshema" target="blank"><img src="https://img.shields.io/twitter/follow/jagshem?logo=twitter&style=for-the-badge" alt="jagshem" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jagshema" target="blank"><img src="https://img.shields.io/twitter/follow/jagshem?logo=twitter&style=for-the-badge" alt="jagshem" /></a></p>
 
 
 <a href="https://karakay.me">
