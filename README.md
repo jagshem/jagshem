@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/jagshem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dkarakay402" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/jagshema" target="blank"><img src="https://img.shields.io/twitter/follow/karakaydeniz?logo=twitter&style=for-the-badge" alt="karakaydeniz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jagshema" target="blank"><img src="https://img.shields.io/twitter/follow/jagshem?logo=twitter&style=for-the-badge" alt="jagshem" /></a> </p>
 
 
 <a href="https://karakay.me">
@@ -33,24 +33,22 @@
 
 <h3 align="left">Support:</h3>
 
-<br/> 
-
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkarakay&theme=elegant)](https://git.io/streak-stats)
-<br/> 
-
--->
-
-![](https://github.com/jagshem/jagshem/blob/output/github-snake.gif)
 <br/>
-<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagshem&theme=elegant)](https://git.io/streak-stats)
+<br/> 
+
+
+
+![Snake animation](https://github.com/jagshem/jagshem/blob/output/github-contribution-grid-snake.gif)
+<br/>
+
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
--->
+
 
 
 
