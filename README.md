@@ -36,9 +36,6 @@
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagshem&theme=elegant)](https://git.io/streak-stats)
 <br/> 
-
-
-
 ![Snake animation](https://github.com/jagshem/jagshem/blob/output/github-contribution-grid-snake.gif)
 <br/>
 
