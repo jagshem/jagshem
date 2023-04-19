@@ -1,5 +1,4 @@
 
-<div> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
 
 
 
