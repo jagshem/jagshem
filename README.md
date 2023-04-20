@@ -18,13 +18,13 @@
 <p align="left"> <a href="https://twitter.com/jagshema" target="blank"><img src="https://img.shields.io/twitter/follow/jagshem?logo=twitter&style=for-the-badge" alt="jagshem" /></a></p>
 
 
-<a href="https://karakay.me">
+<a>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jagshem&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 
 <br/>
 
-<a href="https://karakay.me">
+<a>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jagshem&layout=compact&theme=github_dark" />
 </a>
 
