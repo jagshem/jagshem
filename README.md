@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hello! I'm Tunahan, a 🚀 software developer skilled in React ⚛️, TypeScript 📘, and full-stack development with Node.js 🚀.
+👋 Full-stack blockchain web3 developer. 💻
+📩 Ig for advertising & collaboration. ₿
 
 
 ## 🌐 Socials:
