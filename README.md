@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Full-stack blockchain web3 developer. 💻
-📩 Ig for advertising & collaboration. ₿
+👋 Full-stack blockchain web3 developer. 💻,
+📩 Instragram for advertising & collaboration. ₿
 
 
 ## 🌐 Socials:
